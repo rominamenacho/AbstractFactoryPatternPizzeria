@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\54926\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
